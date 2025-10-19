@@ -1,0 +1,13 @@
+body{
+    font-family: verdana;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+#mySubmit{
+    font-size: 1.2em;
+}
+.myparagraphs{
+    font-size: 1.3em;
+    font-weight: bold;
+}
